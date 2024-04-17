@@ -13,7 +13,7 @@ echo "Clean-up unused packages"
 sudo apt autoremove -y
 cd ~
 echo "Downloading Linux PAServer for Athens 12.1 (23.0)"
-wget https://altd.embarcadero.com/releases/studio/23.0/120/LinuxPAServer23.0.tar.gz 
+wget https://altd.embarcadero.com/releases/studio/23.0/121/LinuxPAServer23.0.tar.gz 
 echo "Setting up directories to extract PA Server into"
 mkdir PAServer
 mkdir PAServer/23.0
