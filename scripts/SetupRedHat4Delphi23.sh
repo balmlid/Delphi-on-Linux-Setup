@@ -10,7 +10,7 @@ sudo yum groupinstall 'Development Tools' -y
 sudo yum install wget gtk3 mesa-libGL gtk3-devel -y
 cd ~
 echo "Downloading Linux PAServer for Alexandria 12.1 (23.0)"
-wget https://altd.embarcadero.com/releases/studio/23.0/120/LinuxPAServer23.0.tar.gz 
+wget https://altd.embarcadero.com/releases/studio/23.0/121/LinuxPAServer23.0.tar.gz 
 echo "Setting up directories to extract PA Server into"
 mkdir PAServer
 mkdir PAServer/23.0
