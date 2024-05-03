@@ -5,8 +5,8 @@
 
 The Bash scripts works with CentOS (Redhat, Fedora) or Ubuntu and related Linux distros. I've used them both under WSL2, VM, and hardware installs.
 
-* Ubuntu support:  20.04 LTS and 22.04 LTS - `curl -L curl -L https://tinyurl.com/SetupUbuntu4Delphi23 | bash`
-* Redhat support: CentOS 9, FedoraRemix (WSL), RHEL8 -  `curl -L curl -L https://tinyurl.com/SetupRedHat4Delphi23 | bash`
+* Ubuntu support:  20.04 LTS and 22.04 LTS - `curl -L https://tinyurl.com/SetupUbuntu4Delphi23 | bash`
+* Redhat support: CentOS 9, FedoraRemix (WSL), RHEL8 -  `curl -L https://tinyurl.com/SetupRedHat4Delphi23 | bash`
 * [Official Platform Support list](https://docwiki.embarcadero.com/PlatformStatus/en/Main_Page)
 
 ## Installing Ubuntu with WSL2 on Windows 11
