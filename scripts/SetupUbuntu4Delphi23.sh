@@ -3,7 +3,7 @@
 # Download and execute with the following:
 # curl -L https://tinyurl.com/SetupUbuntu4Delphi23 | bash
 #
-# Updated for 12.1
+# Updated for 12.2
 #
 echo "Updating the local package directory"
 sudo apt update 
@@ -14,7 +14,7 @@ sudo apt install joe python3 libpython3-dev wget p7zip-full curl libgtk-3-dev op
 echo "Clean-up unused packages"
 sudo apt autoremove -y
 cd ~
-echo "Downloading Linux PAServer for Athens 12.1 (23.0)"
+echo "Downloading Linux PAServer for Athens 12.2 (23.0)"
 wget https://altd.embarcadero.com/releases/studio/23.0/121/LinuxPAServer23.0.tar.gz 
 echo "Setting up directories to extract PA Server into"
 mkdir PAServer
